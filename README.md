@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./(https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/1c413a53-4417-4939-9766-0b045c4a9974)
+![01-html-css-git-challenge-demo](![01-html-css-git-challenge-demo](https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/e57ea3af-8eb7-45ca-86dc-757fb9aa7e56)
 )
 
 ### Links
