@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./![01-html-css-git-challenge-demo](https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/1c413a53-4417-4939-9766-0b045c4a9974)
+![](./(https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/1c413a53-4417-4939-9766-0b045c4a9974)
 )
 
 ### Links
@@ -48,7 +48,7 @@ Users should be able to:
 To see how I add code snippets, see below:
 
 ```html
-<title>Horiseon</title>
+<title>Learning to code landing page</title>
 <header><nav>...</nav></header>
 <h1>Hori<span>seo</span>n</h1>
 <h2>Online Reputation Management</h2>
