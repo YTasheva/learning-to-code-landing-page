@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/YTasheva/learning-to-code-landing-page)](https://github.com/YTasheva/learning-to-code-landing-page)
+- Solution URL: (https://github.com/YTasheva/learning-to-code-landing-page)](https://github.com/YTasheva/learning-to-code-landing-page)
 - Live Site URL: 
 
 ## My process
