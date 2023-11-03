@@ -1,4 +1,4 @@
-# Learning to code landing page - Horiseon
+# Learning to code landing page
 
 ## Table of contents
 
