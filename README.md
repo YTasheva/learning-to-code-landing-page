@@ -4,6 +4,8 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,10 +17,35 @@
 
 ### The challenge
 
-Users should be able to:
+-  Code refactor an existing site to make it more accessible.
 
-- reach the corresponding title by clicking on the navigation.
+### User Story
 
+-AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our site is optimized for search engines
+
+### Acceptance Criteria
+
+- Semantic HTML elements can be found throughout the source code
+- HTML elements follow a logical structure independent of styling and positioning
+- Image and icon elements contain accessible alt attributes
+- Heading attributes fall in sequential order
+- Title elements contain a concise, descriptive title
+- Application’s links all function correctly.
+- The application’s CSS selectors and properties are consolidated and organized to follow semantic structure.
+- The application’s CSS file is properly commented.
+- Application deployed at live URL
+- Application loads with no errors.
+- Application GitHub URL submitted.
+- GitHub repository that contains application code.
+- Application resembles (at least 90%) screenshots provided in the challenge instructions.
+- Repository has a unique name.
+- Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+ -Repository contains multiple descriptive commit messages.
+- Repository contains quality README file with description, screenshot, and link to deployed application.
+- 
 ### Screenshot
 
 ![01-html-css-git-challenge-demo](https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/c55f1039-d751-49e6-a8b8-dc12c08132b8)
