@@ -45,7 +45,7 @@
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
  -Repository contains multiple descriptive commit messages.
 - Repository contains quality README file with description, screenshot, and link to deployed application.
-- 
+  
 ### Screenshot
 
 ![01-html-css-git-challenge-demo](https://github.com/YTasheva/learning-to-code-landing-page/assets/148258557/c55f1039-d751-49e6-a8b8-dc12c08132b8)
