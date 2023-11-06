@@ -27,8 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/YTasheva/learning-to-code-landing-page
-- Live Site URL: 
-
+- Live Site URL: https://ytasheva.github.io/learning-to-code-landing-page
 ## My process
 
 ### Build with
