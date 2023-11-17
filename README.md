@@ -57,7 +57,7 @@
 - Live Site URL: https://ytasheva.github.io/learning-to-code-landing-page
 ## My process
 
-### Build with
+### Built with
 
 - Semantic HTML
 - CSS
